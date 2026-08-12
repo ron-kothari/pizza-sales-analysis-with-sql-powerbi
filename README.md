@@ -10,11 +10,11 @@ It highlights key trends such as peak sales on Friday and Saturday evenings, lar
 
 The findings aim to guide strategic decisions for enhancing performance and customer satisfaction.
 
-![**Download the PowerBI Dashboard**](https://github.com/ron-kothari/pizza-sales-analysis-with-sql-powerbi/blob/main/Pizza%20Sales%20Report.pbix)
+[**Download the PowerBI Dashboard**](https://github.com/ron-kothari/pizza-sales-analysis-with-sql-powerbi/blob/main/Pizza%20Sales%20Report.pbix)
 
-![**View the PowerBI Dashboard PDF**](https://github.com/ron-kothari/pizza-sales-analysis-with-sql-powerbi/blob/main/Pizza%20Sales%20Analysis%20Dashboard.pdf)
+[**View the PowerBI Dashboard PDF**](https://github.com/ron-kothari/pizza-sales-analysis-with-sql-powerbi/blob/main/Pizza%20Sales%20Analysis%20Dashboard.pdf)
 
-![**View the SQL Queries**](https://github.com/ron-kothari/pizza-sales-analysis-with-sql-powerbi/blob/main/PIZZA%20SALES%20SQL%20QUERIES.pdf)
+[**View the SQL Queries**](https://github.com/ron-kothari/pizza-sales-analysis-with-sql-powerbi/blob/main/PIZZA%20SALES%20SQL%20QUERIES.pdf)
 
 
 ### Steps followed 
